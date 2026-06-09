@@ -1,4 +1,4 @@
-# 
+# آلي JetBrains WebStorm امتدادات لـ Mac OS | أصلي JetBrains WebStorm امتدادات لـ PC Windows. مع إدارة المستخدمين و خدمات التقارير — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
